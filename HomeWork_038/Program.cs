@@ -7,7 +7,7 @@ FillArrayRandomNumbers(numbers);
 PrintArray(numbers);
 
 int minNumberIndex = 0;
-int maxNumberIndex = 1;
+int maxNumberIndex = 0;
 
 for (int i = 1; i < numbers.Length; i++)
 {
